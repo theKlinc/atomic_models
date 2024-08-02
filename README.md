@@ -13,5 +13,3 @@ Have fun!
 ### Current bonds
  - single covalent
  -  double covalent *(fits the connection between C and O)*
-
-***p.s.** this was created as a quickly made project (and i am no chemistry expert), so there are likely many aspects that haven't been thought through + many mistakes. I'm also new to open-suorce, so please be gentle :) *
